@@ -4,6 +4,12 @@
  * Released under the MIT License.
  */
 
+/*!
+ * imagesLoaded v4.1.3
+ * JavaScript is all like "You images are done yet or what?"
+ * MIT License
+ */
+
 /**
  * vuex v2.5.0
  * (c) 2017 Evan You
@@ -41,3 +47,15 @@ object-assign
   * Vue YouTube Embed version 2.1.3
   * under MIT License copyright 2017 kaorun343
   */
+
+/*!
+ * vue-resource v1.3.4
+ * https://github.com/pagekit/vue-resource
+ * Released under the MIT License.
+ */
+
+/*!
+ * Vue-Lazyload.js v1.1.4
+ * (c) 2017 Awe <hilongjw@gmail.com>
+ * Released under the MIT License.
+ */
